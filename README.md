@@ -3,6 +3,9 @@
 ### Overview:
 This project involves the deployment of a machine learning model for predicting laptop prices through a web application built with Flask. The model, trained on a dataset containing various laptop specifications, allows users to input specific details of a laptop and obtain an estimated price.
 
+### User Interface:
+![User Interface](https://github.com/mannan-python-developer/Laptop-Price-Prediction-Model-Deployment-/blob/main/Demo.png)
+
 ### Technologies Used:
 - **Flask**: Used as the web application framework to handle user requests and responses.
 - **Pandas**: Employed for data manipulation and preprocessing.
@@ -29,6 +32,5 @@ The Flask app is deployed and hosted on a server, making it accessible to users 
 ### Training Repository:
 The machine learning model used in this project was trained. [this repository](https://github.com/mannan-python-developer/Laptop-Price-Prediction).
 
-### User Interface:
-![User Interface](path-to-your-image.png)
+
 
