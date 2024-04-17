@@ -30,7 +30,7 @@ The Flask app is deployed and hosted on a server, making it accessible to users 
 - **Model Refinement**: Continuously refining the machine learning model to improve prediction accuracy.
 
 ### Training Repository:
-The machine learning model used in this project was trained. [this repository](https://github.com/mannan-python-developer/Laptop-Price-Prediction).
+The machine learning model used in this project was trained [click here](https://github.com/mannan-python-developer/Laptop-Price-Prediction) to check.
 
 
 
